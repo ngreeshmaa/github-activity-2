@@ -2,7 +2,7 @@
 
 ## Various Android versions
 
-<img src="https://cnet4.cbsistatic.com/img/QJcTT2ab-sYWwOGrxJc0MXSt3UI=/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg" width="350">
+<img src="https://cnet4.cbsistatic.com/img/QJcTT2ab-sYWwOGrxJc0MXSt3UI=/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg" width="400">
 
 
 A list of various Android versions and their properties.
@@ -30,6 +30,8 @@ Android Oreo re-brands automatic scanning of Google Play Store and sideloaded ap
 
 
 ### 2.Android Nougat
+<img src="https://www.android.com/static/2016/img/share/n-lg.png">
+
 Android "Nougat" (codenamed Android N during development) is the seventh major version of the Android operating system. First released as an alpha test version on March 9, 2016, it was officially released on August 22, 2016, with Nexus devices being the first to receive the update. The LG V20 was the first smartphone released with Nougat.Nougat introduces notable changes to the operating system and its development platform, including the ability to display multiple apps on-screen at once in a split-screen view, support for inline replies to notifications, and an expanded "Doze" power-saving mode that restricts device functionality once the screen has been off for a period of time. Additionally, the platform switched to an OpenJDK-based Java environment and received support for the Vulkan graphics rendering API, and "seamless" system updates on supported devices.Nougat received positive reviews. The new app notification format received particular praise, while the multitasking interface was seen as a positive change, but reviewers experienced incompatible apps. Critics had mixed experiences with the Doze power-saving mode, but faster app installs and "tweaks" to the user interface were also reviewed positively.
 
 #### Features
@@ -53,7 +55,8 @@ In response to the Stagefright family of bugs disclosed and fixed in 2015, sever
 Various mechanisms were enabled to reduce the possibility of malicious code being injected and/or executed inside the Linux kernel, including dividing kernel memory into logical segments for code and data, with page access permissions of read-only and no-execute as appropriate. The kernel was also restricted from directly accessing user space memory, and stronger stack protection was enabled in the GCC compiler to reduce stack smashing. To limit exposure of the kernel to potentially malicious code, perf was disabled by default, ioctl commands were restricted by SELinux, and seccomp-bpf was enabled to grant processes the ability to restrict system calls.
 
 ### 3.Android Marshmallow
-
+<imf src="https://cdn.vox-cdn.com/thumbor/CfRbYk4cgIZ-aCsCiMAfpCQewoA=/4x0:963x639/1200x800/filters:focal(4x0:963x639)/cdn.vox-cdn.com/uploads/chorus_image/image/46978008/android.0.0.jpg">
+  
 Android "Marshmallow" (codenamed Android M during development) is the sixth major version of the Android operating system. First released as a beta build on May 28, 2015, it was officially released on October 5, 2015, with Nexus devices being the first to receive the update.Marshmallow primarily focuses on improving the overall user experience of its predecessor, Lollipop. It introduced a new permissions architecture, new APIs for contextual assistants (first used by a new feature "Now on Tap" to provide context-sensitive search results), a new power management system that reduces background activity when a device is not being physically handled, native support for fingerprint recognition and USB-C connectors, the ability to migrate data and applications to a microSD card, and other internal changes.
 
 #### Features
