@@ -4,11 +4,11 @@
 
 A list of various Android versions and their properties.
 
-#### Android Oreo
+### Android Oreo
 Android "Oreo" (codenamed Android O during development) is the eighth major version of the Android operating system. It was first released as an alpha quality developer preview in March 2017 and released to the public on August 21, 2017.
 
 It contains a number of major features, including notification grouping, picture-in-picture support for video, performance improvements and battery usage optimization, and support for autofillers, Bluetooth 5, system-level integration with VoIP apps, wide color gamuts, and Wi-Fi Aware. Android Oreo also introduces two major platform features: Android Go – a software distribution of the operating system for low-end devices – and support for implementing a hardware abstraction layer.
-### Features
+#### Features
 **User experience**
 
 Notifications can be snoozed, and batched into topic-based groups known as "channels". Android Oreo contains integrated support for picture-in-picture modes (supported in the YouTube app for YouTube Red subscribers). The "Settings" app features a new design, with a white theme and deeper categorization of different settings, while its ringtone, alarm and notification sound settings now contain an option for adding custom sounds to the list.The Android 8.1 update supports the display of battery percentages for connected Bluetooth devices, makes the notification shade slightly translucent, and dims the on-screen navigation keys in order to reduce the possibility of burn-in.
