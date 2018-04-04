@@ -8,6 +8,8 @@
 A list of various Android versions and their properties.
 
 ## 1.Android Oreo
+<img src="https://themerkle.com/wp-content/uploads/android-oreo.jpg">
+
 Android "Oreo" (codenamed Android O during development) is the eighth major version of the Android operating system. It was first released as an alpha quality developer preview in March 2017 and released to the public on August 21, 2017.
 
 It contains a number of major features, including notification grouping, picture-in-picture support for video, performance improvements and battery usage optimization, and support for autofillers, Bluetooth 5, system-level integration with VoIP apps, wide color gamuts, and Wi-Fi Aware. Android Oreo also introduces two major platform features: Android Go – a software distribution of the operating system for low-end devices – and support for implementing a hardware abstraction layer.
